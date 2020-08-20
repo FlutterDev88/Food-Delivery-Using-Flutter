@@ -1,9 +1,4 @@
-# takein
-
-TakeIn Consumer App
-
-# See Doc
-https://docs.google.com/document/d/1ZzLvabMvUmNOJWZG5Z_-V5ex-dWPWQN-v1ZSzGkdC50/edit?usp=sharing
+# Food Delivery Using Flutter
 
 # Run
 flutter run --flavor dev
